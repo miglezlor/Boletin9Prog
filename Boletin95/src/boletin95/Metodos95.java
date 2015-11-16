@@ -24,9 +24,6 @@ public class Metodos95 {
         
     }
     public void terceraSerie(int i, int numElementos){
-        while (i<numElementos){
-            
-                                 
-        }
+        
     }
 }
